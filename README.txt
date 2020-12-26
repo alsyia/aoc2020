@@ -1,0 +1,2 @@
+This repository contains my solution to AOC 2020 challenge. This is mostly quick and dirty code which could be optimized a lot in some cases.
+I sometimes voluntarily took a longer path (for example regexes instead of a bunch of split) just because I wanted to explore a specific way to solve the problem.
